@@ -21,6 +21,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+notifications:
+  NOTIFICATION_DISCORD: true
+  NOTIFICATION_DISCORD_WEBHOOK: true
+  NOTIFICATION_DISCORD_WEBHOOK_URL:  $NOTIFICATION_DISCORD_WEBHOOK_URL
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
