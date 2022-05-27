@@ -4,12 +4,12 @@
     "url": "https://comfibot.tk/",
     "icon": "https://favicons.githubusercontent.com/comfibot.tk",
     "slug": "comfi",
-    "status": "up",
-    "uptime": "86.75%",
-    "uptimeDay": "62.78%",
+    "status": "down",
+    "uptime": "86.99%",
+    "uptimeDay": "63.21%",
     "uptimeWeek": "77.92%",
-    "uptimeMonth": "64.88%",
-    "uptimeYear": "86.75%",
+    "uptimeMonth": "65.50%",
+    "uptimeYear": "86.99%",
     "time": 6577,
     "timeDay": 8088,
     "timeWeek": 6766,
@@ -44,8 +44,7 @@
       "2022-05-02": 626,
       "2022-05-01": 713,
       "2022-04-30": 573,
-      "2022-04-29": 217,
-      "2022-04-28": 83
+      "2022-04-29": 28
     }
   }
 ]
