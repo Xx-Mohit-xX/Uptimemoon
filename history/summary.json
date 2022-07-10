@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/comfibot.tk",
     "slug": "comfi",
     "status": "up",
-    "uptime": "87.89%",
-    "uptimeDay": "55.64%",
-    "uptimeWeek": "63.24%",
-    "uptimeMonth": "65.49%",
-    "uptimeYear": "87.89%",
-    "time": 5918,
-    "timeDay": 979,
-    "timeWeek": 3858,
-    "timeMonth": 3601,
-    "timeYear": 5918,
+    "uptime": "87.84%",
+    "uptimeDay": "67.78%",
+    "uptimeWeek": "64.97%",
+    "uptimeMonth": "65.79%",
+    "uptimeYear": "87.84%",
+    "time": 5909,
+    "timeDay": 1057,
+    "timeWeek": 3750,
+    "timeMonth": 3348,
+    "timeYear": 5909,
     "dailyMinutesDown": {
-      "2022-07-09": 507,
+      "2022-07-09": 499,
       "2022-07-08": 736,
       "2022-07-07": 334,
       "2022-07-06": 197,
@@ -57,7 +57,7 @@
       "2022-05-30": 314,
       "2022-05-29": 669,
       "2022-05-28": 676,
-      "2022-05-27": 555
+      "2022-05-27": 680
     }
   }
 ]
