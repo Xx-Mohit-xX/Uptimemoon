@@ -5,7 +5,7 @@ repo: Uptimemoon # The name of this repository
 sites:
   - name: Comfi
     url: https://comfibot.tk
-  - name: Comfi_r
+  - name: Rcomfi
     url: https://comfi-production.up.railway.app/
 
 status-website:
