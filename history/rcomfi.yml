@@ -1,7 +1,7 @@
 url: https://comfi-production.up.railway.app/
-status: down
-code: 404
-responseTime: 283
-lastUpdated: 2022-10-01T23:17:52.168Z
+status: up
+code: 200
+responseTime: 362
+lastUpdated: 2022-10-02T03:32:21.850Z
 startTime: Sun Sep 11 2022 04:22:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
