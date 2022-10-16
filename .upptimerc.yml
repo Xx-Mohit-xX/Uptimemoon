@@ -4,9 +4,9 @@ repo: Uptimemoon # The name of this repository
 
 sites:
   - name: Comfi
-    url: https://comfibot.tk
+    url: https://comfibot.ml
   - name: Rcomfi
-    url: https://comfi-production.up.railway.app/
+    url: https://comfi-bot.xx-mohit-xx.repl.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
