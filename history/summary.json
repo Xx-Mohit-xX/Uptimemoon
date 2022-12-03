@@ -4,19 +4,19 @@
     "url": "https://comfibot.ml",
     "icon": "https://icons.duckduckgo.com/ip3/comfibot.ml.ico",
     "slug": "comfi",
-    "status": "up",
-    "uptime": "96.87%",
-    "uptimeDay": "79.89%",
-    "uptimeWeek": "81.12%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "83.62%",
+    "uptimeWeek": "81.66%",
     "uptimeMonth": "81.44%",
-    "uptimeYear": "96.87%",
+    "uptimeYear": "96.91%",
     "time": 4196,
     "timeDay": 2342,
     "timeWeek": 1493,
     "timeMonth": 1562,
     "timeYear": 4196,
     "dailyMinutesDown": {
-      "2022-12-03": 96,
+      "2022-12-03": 97,
       "2022-12-02": 205,
       "2022-12-01": 280,
       "2022-11-30": 119,
@@ -58,8 +58,7 @@
       "2022-10-21": 356,
       "2022-10-20": 190,
       "2022-10-19": 34,
-      "2022-10-18": 57,
-      "2022-10-17": 165
+      "2022-10-18": 57
     }
   },
   {
@@ -67,12 +66,12 @@
     "url": "https://comfi-bot.xx-mohit-xx.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/comfi-bot.xx-mohit-xx.repl.co.ico",
     "slug": "rcomfi",
-    "status": "up",
-    "uptime": "66.19%",
-    "uptimeDay": "80.19%",
-    "uptimeWeek": "81.32%",
+    "status": "down",
+    "uptime": "69.21%",
+    "uptimeDay": "84.01%",
+    "uptimeWeek": "81.86%",
     "uptimeMonth": "80.95%",
-    "uptimeYear": "66.19%",
+    "uptimeYear": "69.21%",
     "time": 1199,
     "timeDay": 1315,
     "timeWeek": 791,
@@ -144,10 +143,7 @@
       "2022-09-29": 1440,
       "2022-09-28": 478,
       "2022-09-27": 38,
-      "2022-09-25": 229,
-      "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 511
+      "2022-09-25": 23
     }
   }
 ]
