@@ -1,7 +1,7 @@
 url: https://comfibot.ml
 status: down
-code: 500
-responseTime: 1840
-lastUpdated: 2023-06-11T23:10:52.366Z
+code: 502
+responseTime: 11642
+lastUpdated: 2023-06-12T23:10:36.198Z
 startTime: Mon Mar 07 2022 18:08:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
